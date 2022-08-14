@@ -1,6 +1,6 @@
 {
     "calls":[
-      { "id": 1,"source_number": "0543453336", "destination_number": "0234345676","call_date": "01-01-1980"}
-      { "id": 2,"source_number": "0543123336", "destination_number": "0532999676","call_date": "01-01-1990"}
+      { "id": 1,"source_number": "0543453336", "destination_number": "0234345676","call_date": "01-01-1980"},
+      { "id": 2,"source_number": "0543123336", "destination_number": "0532999676","call_date": "01-01-1990"},
       { "id": 3,"source_number": "0543876336", "destination_number": "0532238676","call_date": "01-01-1950"}
 }
