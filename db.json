@@ -1,21 +1,8 @@
-[
+
   {
-    "id": 1,
-    "source_number": "0543454676",
-    "destination_number": "0532345676",
-    "call_date": "01-01-1970",
-    "postId": 1
-  },
-  {
-    "id": 2,
-    "source_number": "0543453336",
-    "destination_number": "0532444676",
-    "call_date": "01-01-1977",
-    "postId": 1
-  },
-    "id": 3,
-    "source_number": "0543111336",
-    "destination_number": "0545744676",
-    "call_date": "01-01-2077",
-    "postId": 1
-]
+    "calls":[
+      { "id": 1,"source_number": "0543453336", "destination_number": "0234345676","call_date": "01-01-1980"}
+      { "id": 2,"source_number": "0543123336", "destination_number": "0532999676","call_date": "01-01-1990"}
+      { "id": 3,"source_number": "0543876336", "destination_number": "0532238676","call_date": "01-01-1950"}
+
+}
